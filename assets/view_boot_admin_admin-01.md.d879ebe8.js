@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.61464c5a.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"view/boot/admin/admin-01.md","lastUpdated":null}'),n={name:"view/boot/admin/admin-01.md"};function o(r,s,d,i,c,m){return t(),a("div")}const l=e(n,[["render",o]]);export{_ as __pageData,l as default};
